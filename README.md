@@ -1,0 +1,1 @@
+# cpp_all_struct
